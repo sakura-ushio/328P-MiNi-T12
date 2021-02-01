@@ -4,6 +4,8 @@
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
 
+视频中的屏幕部分也是自己打板焊接的，后续会把屏幕的Gerber以及iBOM上传
+
 主控板成品照片
 
 ![image](Picture/2.jpg)
