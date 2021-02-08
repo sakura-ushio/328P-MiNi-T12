@@ -1,6 +1,6 @@
 /*项目代码修改自 甘草酸不酸 开源https://github.com/jie326513988/mini-T12
- * _樱下小渚花田汐_ https://space.bilibili.com/34620092 修改
  *PCB及BOM开源链接https://github.com/zxcvbnm1421899466/328P-MiNi-T12
+ * _樱下小渚花田汐_ https://space.bilibili.com/34620092 修改
  * 编码器控制改为按键控制
 */
 
