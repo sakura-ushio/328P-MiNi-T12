@@ -6,12 +6,17 @@
 
 视频中的屏幕部分也是自己打板焊接的，屏幕的Gerber以及iBOM已上传
 
-主控板成品照片
+外壳一根亚克力管即可，以下是无外壳的图片以及长度对比图
 
-![image](Picture/2.jpg)
+<img src="Picture/4.jpg" width="40%"><img src="Picture/5.jpg" width="40%"/><br/>
 
-带有精美iBOM方便对照焊接
+## 主控板成品照片
 
-![image](Picture/1.png)
+<img src="Picture/2.jpg" width="85%"/><br/>
 
-![image](Picture/3.png)
+## 带有精美iBOM方便对照焊接
+
+<img src="Picture/1.png" width="85%"/><br/>
+
+<img src="Picture/3.png" width="85%"/><br/>
+
