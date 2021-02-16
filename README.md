@@ -1,8 +1,7 @@
-# 328P-MiNi-T12
-
 ## 2021年2月16日更新
 将主控板以及屏幕合并为同一打板文件并更新iBOM文件
 
+# 328P-MiNi-T12
 视频地址：https://www.bilibili.com/video/BV1q54y1p7Bn
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
