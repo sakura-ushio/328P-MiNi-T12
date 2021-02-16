@@ -17,6 +17,3 @@
 ## 带有精美iBOM方便对照焊接
 
 <img src="Picture/1.png" width="85%"/><br/>
-
-<img src="Picture/3.png" width="85%"/><br/>
-
