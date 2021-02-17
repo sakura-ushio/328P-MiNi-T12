@@ -1,3 +1,5 @@
+# 328P-MiNi-T12
+
 ## 更新历史
 - 2021.2.17  重新上传分开打板的文件并更新README.md
 - 2021.2.16  将主控板以及屏幕合并为同一打板文件并更新iBOM文件并更新README.md
@@ -10,7 +12,6 @@
 
 ## 套件及成品开车QQ群：903440195（***不提供解决疑难杂症服务***）
 
-# 328P-MiNi-T12
 [B站视频地址](https://www.bilibili.com/video/BV1q54y1p7Bn)
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
