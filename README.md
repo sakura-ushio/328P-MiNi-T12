@@ -16,9 +16,9 @@
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
 
-外壳一根亚克力管即可，以下是无外壳的图片以及长度对比图
+外壳一根亚克力管即可，暂时无带外壳的照片
 
-<img src="Picture/4.jpg" width="40%">     <img src="Picture/5.jpg" width="40%"/><br/>
+<img src="Picture/6.jpg" width="85%"><br/>     <img src="Picture/7.jpg" width="85%"/><br/>
 ***
 ### 主控板成品照片
 
