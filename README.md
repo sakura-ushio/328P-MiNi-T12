@@ -20,7 +20,7 @@
 
 外壳一根亚克力管即可，暂时无带外壳的照片
 
-<img src="Picture/7.jpg" width="85%"><br/>     <img src="Picture/6.jpg" width="85%"/><br/>
+<img src="Picture/7.png" width="85%"><br/>     <img src="Picture/6.png" width="85%"/><br/>
 ***
 ### 主控板成品照片
 
