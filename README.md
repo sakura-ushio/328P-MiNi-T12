@@ -17,7 +17,7 @@
 
 ## 套件及成品开车QQ群：903440195（***不提供解决疑难杂症服务***）
 
-[B站视频地址](https://www.bilibili.com/video/BV1q54y1p7Bn)
+[B站视频地址①](https://www.bilibili.com/video/BV1q54y1p7Bn)   [B站视频地址②](https://www.bilibili.com/video/BV1bz4y1m7pS)
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
 
