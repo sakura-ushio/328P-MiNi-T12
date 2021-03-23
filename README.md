@@ -32,7 +32,13 @@
 ***
 ### 主控板成品照片
 
+V1.0版本
+
 <img src="Picture/2.jpg" width="85%"/><br/>
+
+V1.1版本
+
+<img src="Picture/10.jpg" width="85%"><br/>   <img src="Picture/11.jpg" width="85%"><br/>
 ***
 ### 带有精美iBOM方便对照焊接
 
