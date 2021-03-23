@@ -22,7 +22,11 @@
 
 项目源码及原理图基于 https://github.com/jie326513988/mini-T12 修改
 
-外壳一根亚克力管即可，暂时无带外壳的照片
+以下带亚克力管的支架为触摸控制的支架，文件后续更新上来
+
+<img src="Picture/8.jpg" width="85%"><br/>
+
+<img src="Picture/9.jpg" width="85%"><br/>
 
 <img src="Picture/7.png" width="85%"><br/>     <img src="Picture/6.png" width="85%"/><br/>
 ***
