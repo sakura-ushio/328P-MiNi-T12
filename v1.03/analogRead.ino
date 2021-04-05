@@ -82,13 +82,14 @@ void vin_read()
     Eout = Vcc * R2/(R1+R2) R1靠近电源 R2靠近地
   */
   /*vin = (denoiseAnalog(vin_pin) / 0.1282) * vcc_refer_fl; //计算电源电压 10/68+10=0.1282
+  板子实际R2是62k，所以是10/(62+10)=0.1389
     if (vin < vin_low && vin_low >= 3.3) //电压过低提示
     {
     vin_error = 1;
     t12_switch = 0;
     }*/
 
-  vin_cache += (denoiseAnalog(vin_pin) / 0.1282) * vcc_refer_fl;
+  vin_cache += (denoiseAnalog(vin_pin) / 0.1389) * vcc_refer_fl;
   vin_cache_count++;
   if (vin_cache_count >= cycs)
   {
